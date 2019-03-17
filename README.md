@@ -1,4 +1,7 @@
 # so-sample-sweetalert-es2017
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/richrdkng/so-sample-sweetalert-es2017.svg)](https://greenkeeper.io/)
+
 Using SweetAlert in an if statement as if it were confirm() 
 using ES2017 async/await
 
